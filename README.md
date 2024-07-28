@@ -3,12 +3,12 @@ COMMANDS TO RUN:
 
 CHATAPP:
 Compile:
-cd src/main/java
-javac com/chatapp/*.java
+1.cd src/main/java
+2.javac com/chatapp/*.java
 Run Server:
-java com.chatapp.ServerMain
+3.java com.chatapp.ServerMain
 Run Client:
-java com.chatapp.ChatApplication
+4.java com.chatapp.ChatApplication
 
 EX-1
 Behavioral Design Patterns
@@ -28,6 +28,6 @@ Use Case: An old media player that can play audio files, but we need it to play 
 Use Case: A text editor that can add various functionalities (e.g., spell check, grammar check, and auto-completion) to a basic text editor.
 
 compile and run:
-cd src
-javac com/example/*.java
-java com.example.Main
+1.cd src
+2.javac com/example/*.java
+3.java com.example.Main
