@@ -1,3 +1,6 @@
+COMMANDS TO RUN:
+
+
 CHATAPP:
 Compile:
 cd src/main/java
